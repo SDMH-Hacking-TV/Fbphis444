@@ -19,5 +19,5 @@ chmod +x *
 unzip ngrok-stable-linux-arm.zip
 chmod +x *
 cp -r ngrok $HOME
-echo "Now run bash aiop.sh " | lolcat
+echo "Now run bash fbphis.sh " | lolcat
 
