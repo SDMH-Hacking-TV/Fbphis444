@@ -1,6 +1,6 @@
 function tool() {
 clear
-toilet -f mono12 -F gay "Fbphish444"
+toilet -f mono12 -F gay "SDMH"
 echo ""
 echo -e "\e[96m----------------- SDMH-Hacking-TV 2021--------\e[0m";
 echo -e "\e[95m----------- FB Phis and Android Pattern Hack ---------------\e[0m";
@@ -12,13 +12,13 @@ echo -e "";
 echo -e "\e[93m[*] Phising Pages\e[0m";
 echo -e "";
 echo -e "\e[91m1.Facebook\e[0m";
-echo -e "\e[96m23.Android Pattern\e[0m";
-echo -e "\e[95m24.Saved Data \e[0m";
-echo -e "\e[94m25.About\e[0m";
-echo -e "\e[96m26.Update\e[0m";
-echo -e "\e[92m22.Facebook\e[0m";
-echo -e "\e[92m22.Youtube\e[0m";
-echo -e "\e[94m27.Exit\e[0m";
+echo -e "\e[96m2.Android Pattern\e[0m";
+echo -e "\e[95m3.Saved Data \e[0m";
+echo -e "\e[94m4.About\e[0m";
+echo -e "\e[96m5.Update\e[0m";
+echo -e "\e[92m6.Facebook Group\e[0m";
+echo -e "\e[92m7.Youtube\e[0m";
+echo -e "\e[94m8.Exit\e[0m";
 echo -e "";
 read -p "Enter Your Option : " userinput1;
 #
@@ -84,7 +84,7 @@ fi
 
 clear
 sleep 1
-toilet -f mono12 -F gay "Fbphish444"
+toilet -f mono12 -F gay "SDMH"
 echo ""
 echo -e "\e[96m----------------- SDMH-Hacking-TV 2021--------\e[0m";
 echo -e "\e[95m----------- FB Phis and Android Pattern Hack ----------\e[0m";
@@ -101,7 +101,7 @@ echo ""
 read -p 'Press Enter To Continue 》' userinput1;
 #
 clear
-toilet -f mono12 -F gay "Fbphish444"
+toilet -f mono12 -F gay "SDMH"
 echo ""
 echo -e "\e[96m----------------- SDMH-Hacking-TV 2021--------\e[0m";
 echo -e "\e[95m----------- FB Phis and Android Pattern Hack ----------\e[0m";
