@@ -1,5 +1,5 @@
 clear
-echo -e "\e[96m----------------- SDMH-Hacking-TV 2021--------\e[0m";
+echo -e "\e[96m----------------- SDMH-Hacking-TV 2021-------------\e[0m";
 echo -e "\e[95m--------------- Facebook-SDMH-Hacking-TV ----------\e[0m";
 echo -e "\e[93m----------- FB Phis and Android Pattern Hack ------\e[0m";
 echo ""
