@@ -2,7 +2,7 @@ function tool() {
 clear
 toilet -f mono12 -F gay "SDMH"
 echo ""
-echo -e "\e[96m----------------- SDMH-Hacking-TV 2021--------\e[0m";
+echo -e "\e[96m----------------- SDMH-Hacking-TV 2021-------------\e[0m";
 echo -e "\e[95m--------------- Facebook-SDMH-Hacking-TV ----------\e[0m";
 echo -e "\e[93m----------- FB Phis and Android Pattern Hack ------\e[0m";
 echo ""
@@ -86,7 +86,7 @@ clear
 sleep 1
 toilet -f mono12 -F gay "SDMH"
 echo ""
-echo -e "\e[96m----------------- SDMH-Hacking-TV 2021--------\e[0m";
+echo -e "\e[96m----------------- SDMH-Hacking-TV 2021-------------\e[0m";
 echo -e "\e[95m--------------- Facebook-SDMH-Hacking-TV ----------\e[0m";
 echo -e "\e[93m----------- FB Phis and Android Pattern Hack ------\e[0m";
 echo ""
@@ -103,7 +103,7 @@ read -p 'Press Enter To Continue 》' userinput1;
 clear
 toilet -f mono12 -F gay "SDMH"
 echo ""
-echo -e "\e[96m----------------- SDMH-Hacking-TV 2021--------\e[0m";
+echo -e "\e[96m----------------- SDMH-Hacking-TV 2021-------------\e[0m";
 echo -e "\e[95m--------------- Facebook-SDMH-Hacking-TV ----------\e[0m";
 echo -e "\e[93m----------- FB Phis and Android Pattern Hack ------\e[0m";
 echo ""
