@@ -1,5 +1,5 @@
 clear
-toilet -f mono12 -F gay "Fbphis444"
+toilet -f mono12 -F gay "SDMH"
 echo ""
 echo -e "\e[96m----------------- SDMH-Hacking-TV 2021-------------\e[0m";
 echo -e "\e[95m--------------- Facebook-SDMH-Hacking-TV ----------\e[0m";
