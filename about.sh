@@ -9,7 +9,7 @@ echo ""
 cowsay -f ghostbusters CODED BY ISURUWA | lolcat -a
 echo -e "";
 echo "GITHUB : https://github.com/SDMH-Hacking-TV" | lolcat
-echo "FACEBOOK : https://www.facebook.com/group/SDMH.Hacking.TV | lolcat
+echo "FACEBOOK : https://www.facebook.com/group/SDMH.Hacking.TV" | lolcat
 echo "GMAIL : isuruumayanga035@gmail.com" | lolcat
 echo ""
 read -p 'Press Enter To Continue 》' userinput1;
