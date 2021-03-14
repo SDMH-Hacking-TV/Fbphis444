@@ -20,7 +20,8 @@ unzip ngrok-stable-linux-arm.zip
 chmod +x *
 cp -r ngrok $HOME
 echo "Now run bash fbphis.sh " | lolcat
-
+echo ""
+echo ""
 clear
 #! /data/data/com.termux/files/usr/bin/bash
 clear
@@ -59,3 +60,5 @@ echo " SUBSCRIBE MY CHANNEL 🔔 " | lolcat
 xdg-open https://syr.us/iiW
 echo ""
 echo "Now run bash fbphis.sh " | lolcat
+echo ""
+echo ""
